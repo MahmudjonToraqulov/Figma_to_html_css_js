@@ -46,12 +46,7 @@
   gap: 56px;
   width: 800px;
   height: 320px;
-}
-
-
-
-
-
+} 
 .financials_section .financials_content .financials_chart{
   display: flex;
   flex-direction: row;
@@ -75,14 +70,11 @@
   width: 336px;
   height: 0px;
   left: 48px;
-  top: 260px;
-  
-  /* Neutral/Vanilla */
+  top: 260px; 
   
   background: #FFFFFF;
   mix-blend-mode: normal;
-  opacity: 0.3;
-  /* Neutral/Graphite */
+  opacity: 0.3; 
   
   border: 1px dashed #999999;
 
